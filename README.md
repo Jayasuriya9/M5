@@ -3,10 +3,10 @@ EX-21-POINTERS
 Write a C program to convert a 23.65 into 25 using pointer
 
 ## ALGORITHM:
-1	Declare a double variable to hold the floating-point number (23.65).
-2	Declare a pointer to double to point to the address of the variable.
-3	Use the pointer to modify the value to 25.0.
-4	Print the modified value.
+1:	Declare a double variable to hold the floating-point number (23.65).
+2:	Declare a pointer to double to point to the address of the variable.
+3:	Use the pointer to modify the value to 25.0.
+4:	Print the modified value.
 
 ## PROGRAM:
 ```
